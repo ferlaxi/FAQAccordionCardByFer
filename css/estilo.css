@@ -68,7 +68,7 @@
     border-radius: 20px;
     position: relative;
     z-index: 0;
-    box-shadow: 0 8px 10px -5px rgba(0, 0, 0, 0.575);
+    box-shadow: 0 30px 50px -10px rgba(0, 0, 0, 0.445);
     height: 609px;
 }
 .acordeon .bloque{
