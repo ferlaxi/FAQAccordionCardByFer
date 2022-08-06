@@ -230,3 +230,9 @@
     }
     
 }
+
+@media (max-width: 1440px){
+    .acordeon{
+        width: 1000px;
+    }
+}
