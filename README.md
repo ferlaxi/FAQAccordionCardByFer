@@ -10,4 +10,4 @@
 
 ## Links
 - Frontend Mentor - [@ferlaxi](https://www.frontendmentor.io/profile/ferlaxi)
-- Live Site URL: [FAQ Accordion card]()🌐
+- Live Site URL: [FAQ Accordion card](https://ferlaxi.github.io/FAQAccordionCardByFer/)🌐
